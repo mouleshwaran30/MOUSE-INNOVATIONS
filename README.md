@@ -10,7 +10,9 @@
 - Ramsurath V
 
 ## College
+
 Bannari Amman Institute of Technology
+Sathyamangalam, Tamil Nadu, India
 
 ## Project Overview
 
