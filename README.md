@@ -49,7 +49,7 @@ An AI-powered Digital Twin Learning Platform that combines virtual electrical ex
 
 ## Demo Video
 
-(https://drive.google.com/file/d/1bygGRexcustG2T6VuImGiVbkIsSb2O0x/view?usp=sharing)
+(https://drive.google.com/file/d/1BdcS6NkUQoGTXgJx54j4jbheGT3feRWn/view?usp=drivesdk)
 
 ## Feedback
 
